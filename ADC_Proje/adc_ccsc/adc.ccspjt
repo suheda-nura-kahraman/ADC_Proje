@@ -1,0 +1,16 @@
+[PROJECT]
+Target=adc.hex
+Processor_Text=PIC16F877A
+CCSVersion=5.007
+Compiler=PCM
+[Target Data]
+FileList=adc.c
+[Directories]
+Include=D:\Program Files (x86)\PICC\Devices\;D:\Program Files (x86)\PICC\Drivers\
+[adc.c]
+Type=4
+[mru-list]
+1=adc.c
+[Units]
+Count=1
+1=adc (main)
